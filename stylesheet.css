@@ -109,5 +109,44 @@ body{
 .github:hover{
     color: darkorange;
 }
+.section h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: black;
+    font-family: "Cambria Math", serif;
+    text-shadow: 0 10px 30px rgba(0,0,0,0.24);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: darkorange;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+}
+.section p {
+    color: black;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: "Cambria Math", serif;
+    text-shadow: 0 10px 30px rgba(0,0,0,0.24);
+    letter-spacing: 1px;
+    line-height: 1.6;
+    text-decoration: none;
+    text-decoration-color: black;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.24);
+    background-color: wheat;
 
 
